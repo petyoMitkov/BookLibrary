@@ -1,3 +1,5 @@
-# proba
+# combinatorics
+Combinatorial problems
 
-Test for this repository  some text 
+1. Permutation
+2. Variation - Iterative Algorithm
