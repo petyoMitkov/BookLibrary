@@ -27,7 +27,7 @@ audio.volume = 0.03;
 
 
 window.addEventListener("keydown", eventHandler);
-window.addEventListener("keyup", eventHandler);
+window.addEventListener("keyup", eventHandler); 
 
 
 //Start Loading Animation 
